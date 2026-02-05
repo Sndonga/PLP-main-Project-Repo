@@ -17,10 +17,11 @@ body {
 
 /* ===== HEADER & NAVBAR ===== */
 .header {
-  background-color: var(--white);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  padding: 1rem 2rem;
+  background-image: url("C:\Users\Kitten_2.0\OneDrive\Desktop\My_Girlie_World_Project-Repo\Documentation\Design & Branding\MGW Website Image\5d8c1492-8dca-4ad0-a0e1-919e0b10ec31.jpg");
+  background-size: cover;
+  background-position: center;
 }
+  
 
 .logo a {
   font-family: 'Dancing Script', cursive; /* Feminine cursive */
